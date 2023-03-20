@@ -1,6 +1,5 @@
 
-![grid3](https://user-images.githubusercontent.com/13530237/226351323-d5be870d-4d13-4acd-a7ac-d19d054b4e74.jpg)
-
+![252164](https://user-images.githubusercontent.com/13530237/226367596-2f18738d-8db3-468b-80b3-3690a16db833.jpg)
 
 <div align="center">
 <a href="https://www.linkedin.com/in/ashika-kalmady-6485a889/"><img src="https://img.shields.io/badge/LinkedIn-d3f6e9?style=for-the-badge&labelColor=555555&logo=linkedin&logoColor=white" /></a>
