@@ -1,6 +1,3 @@
-
-![252164](https://user-images.githubusercontent.com/13530237/226367596-2f18738d-8db3-468b-80b3-3690a16db833.jpg)
-
 <div align="center">
 <a href="https://www.linkedin.com/in/ashika-kalmady-6485a889/"><img src="https://img.shields.io/badge/LinkedIn-d3f6e9?style=for-the-badge&labelColor=555555&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ashika.kalmady21@gmail.com"><img src="https://img.shields.io/badge/Gmail-d3f6e9?style=for-the-badge&labelColor=555555&logo=gmail&logoColor=white" /></a>
