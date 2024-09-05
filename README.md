@@ -1,6 +1,8 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/ashika-kalmady-6485a889/"><img src="https://img.shields.io/badge/LinkedIn-d3f6e9?style=for-the-badge&labelColor=555555&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ashika.kalmady21@gmail.com"><img src="https://img.shields.io/badge/Gmail-d3f6e9?style=for-the-badge&labelColor=555555&logo=gmail&logoColor=white" /></a>
+<a href="https://entire-places-204095.framer.app"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+
 <h3>Hi, I’m Ashika! 👋</h3>
 </div>
 With 7 years of experience in iOS development, I've had the privilege of working on diverse projects at leading companies like Apple, SAP, Oracle, and IBM. My journey in software engineering has been driven by a passion for creating seamless, user-centric applications that solve real-world problems.
