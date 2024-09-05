@@ -3,8 +3,11 @@
 <a href="mailto:ashika.kalmady21@gmail.com"><img src="https://img.shields.io/badge/Gmail-d3f6e9?style=for-the-badge&labelColor=555555&logo=gmail&logoColor=white" /></a>
 <h3>Hi, I’m Ashika! 👋</h3>
 </div>
-Over the past 7 years working as an iOS Mobile Application developer at various organizations on customer-facing products, I have gained a first-hand understanding of user pain points and a mindset to focus on customer success while building products. While at SAP as a new joiner, I worked with and led a geographically distributed team to deliver critical workloads well within schedule.
-As part of my master's in information science program, I have completed Application Development Engineering which deals with systematically combining UX techniques, business processes, and complex data models to assemble applications. The course also covers how to employ the object-oriented paradigm, visual user experience, and system design principles to put together complicated, powerful, real-world applications. In addition, I have also taken up Web Design and User Experience Engineering which involves the fundamental concepts, techniques, and tools associated with the practice of user-experience design in Web interfaces. Current semester I have taken up Program Structure & Algorithms and Data Management and Database Design to further strengthen my fundamentals in these areas.
+With 7 years of experience in iOS development, I've had the privilege of working on diverse projects at leading companies like Apple, SAP, Oracle, and IBM. My journey in software engineering has been driven by a passion for creating seamless, user-centric applications that solve real-world problems.
+
+I hold a master’s degree in Computer Software Engineering from Northeastern University and have a strong foundation in Swift, SwiftUI, Objective-C, and other iOS technologies. My expertise lies in leading development projects from concept to deployment, optimizing code for performance, and implementing advanced features that improve user experience.
+
+I thrive in collaborative environments where I can contribute innovative ideas, learn from others, and continuously improve my craft. Whether it's building robust architectures, enhancing app security, or mentoring junior developers, I'm committed to delivering high-quality solutions that drive success.
 
 ### My Tech Stack:
 <div align="center">
